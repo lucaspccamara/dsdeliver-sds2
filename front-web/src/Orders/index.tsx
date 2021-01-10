@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { toast, Toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import OrderLocation from './OrderLocation';
